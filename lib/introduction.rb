@@ -6,6 +6,7 @@
 def introduction
   name = "Teddy"
 puts "Hi, my name is #{name}."
+end
 
 
 
