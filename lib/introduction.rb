@@ -5,7 +5,7 @@
 
 def introduction
   name = "Teddy"
-puts ""
+puts "Hi, my name is #{name}."
 
 
 
